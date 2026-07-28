@@ -37,7 +37,7 @@ Regression models include controls for:
 
 ## Repository Contents
 
-- `crime-exposure-analysis.R` – Complete R script for the statistical analysis.
+- `crime_exposure_analysis.R` – Complete R script for the statistical analysis.
 
 ## Dataset
 
